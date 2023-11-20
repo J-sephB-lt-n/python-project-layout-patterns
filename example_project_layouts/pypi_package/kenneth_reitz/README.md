@@ -5,7 +5,7 @@ https://docs.python-guide.org/writing/structure/
 ├── LICENSE           
 ├── MANIFEST.in
 ├── Makefile          # defines runnable tasks (e.g. build, install_dependencies, run, clean_up etc.)
-├── README.md         # project entry documentation (first thing new user will read)
+├── README.md         # root project documentation (first thing new user will read)
 ├── docs              # reference documentation
 │   ├── Makefile
 │   ├── conf.py
@@ -17,7 +17,7 @@ https://docs.python-guide.org/writing/structure/
 │   ├── core.py
 │   └── helpers.py
 ├── setup.py          # package and distribution management
-└── tests             # scripts related to testing your code 
+└── tests             # scripts related to testing the code 
     ├── __init__.py
     ├── context.py
     ├── test_advanced.py

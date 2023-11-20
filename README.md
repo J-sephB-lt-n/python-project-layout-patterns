@@ -6,7 +6,7 @@ All of the project layouts are in [/example_project_layouts/](./example_project_
 
 # My Main Learnings So Far 
 
-* Use a Makefile
+* Include a [Makefile](https://en.wikipedia.org/wiki/Make_(software))
 
 # Some Interesting Resources
 
