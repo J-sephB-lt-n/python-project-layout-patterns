@@ -57,7 +57,8 @@ https://waynerv.github.io/cookiecutter-pypackage
 │   └── usage.md
 ├── makefile                          # defines runnable parts of the project
 │                                     #     format, lint, coverage, clean etc.
-├── mkdocs.yml
+├── mkdocs.yml                        # settings control automatic generation of documentation
+│                                     #     (this uses the mkdocstrings package)
 ├── my_project_name                   # folder containing the core project code
 │   ├── __init__.py
 │   ├── cli.py                        # example command-line project script
