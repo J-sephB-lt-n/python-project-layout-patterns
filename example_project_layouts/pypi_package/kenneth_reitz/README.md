@@ -4,7 +4,7 @@ https://docs.python-guide.org/writing/structure/
 .
 ├── LICENSE           
 ├── MANIFEST.in
-├── Makefile          # defines runnable project tasks (e.g. build, install_dependencies, run, clean_up etc.)
+├── Makefile          # defines runnable tasks (e.g. build, install_dependencies, run, clean_up etc.)
 ├── README.md         # project entry documentation (first thing new user will read)
 ├── docs              # reference documentation
 │   ├── Makefile

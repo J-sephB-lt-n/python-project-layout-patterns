@@ -2,6 +2,8 @@
 
 I am documenting python project structures in order to broaden my understanding of this topic.
 
+All of the project layouts are in [/example_project_layouts/](./example_project_layouts/)
+
 # Resources
 
 https://docs.python-guide.org/writing/structure/
