@@ -4,9 +4,11 @@ I am documenting python project structures in order to broaden my understanding 
 
 All of the project layouts are in [/example_project_layouts/](./example_project_layouts/)
 
-# My Main Learnings So Far 
+# Significant Observations so Far
 
-* Include a [Makefile](https://en.wikipedia.org/wiki/Make_(software))
+* Include a [Makefile](https://en.wikipedia.org/wiki/Make_(software)) in the root project directory.
+
+* It is trivial to add automatic documentation. Docs hosted on GitHub pages using mkdocs + mkdocstrings is an easy way.
 
 # Some Interesting Resources
 
